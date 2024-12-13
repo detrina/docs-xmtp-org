@@ -36,7 +36,7 @@ Try the [Converse](https://converse.xyz/) messaging app. Converse is open source
 
 ## What can I build?
 
-Explore just some of the [vibrant and diverse apps](https://xmtp.org/) in the XMTP ecosystem.
+Explore some of the [vibrant and diverse apps](https://xmtp.org/) in the XMTP ecosystem.
 
 ## Join the XMTP community
 
